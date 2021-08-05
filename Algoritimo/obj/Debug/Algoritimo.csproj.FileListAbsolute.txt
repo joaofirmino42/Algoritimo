@@ -1,0 +1,6 @@
+C:\Users\jfirm\Desktop\Atividade\Algoritimo\bin\Debug\Algoritimo.exe.config
+C:\Users\jfirm\Desktop\Atividade\Algoritimo\obj\Debug\Algoritimo.csprojResolveAssemblyReference.cache
+C:\Users\jfirm\Desktop\Atividade\Algoritimo\bin\Debug\Algoritimo.exe
+C:\Users\jfirm\Desktop\Atividade\Algoritimo\bin\Debug\Algoritimo.pdb
+C:\Users\jfirm\Desktop\Atividade\Algoritimo\obj\Debug\Algoritimo.exe
+C:\Users\jfirm\Desktop\Atividade\Algoritimo\obj\Debug\Algoritimo.pdb
